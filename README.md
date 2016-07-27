@@ -4,7 +4,7 @@
 
 It was originally built for HackMIT and first used at HackMIT 2015. It's also
 been used by a number of other hackathons.
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ## Design
 
 Gavel is based on the method of pairwise comparisons. Before you use Gavel,
